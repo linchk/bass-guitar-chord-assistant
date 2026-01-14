@@ -40,7 +40,7 @@
 
 3. Run the application:
    ```bash
-   python bass_chord_app.py
+   python bass_assistant_v1.py
    ```
 
 ## Song File Format
