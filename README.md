@@ -138,7 +138,6 @@ This project is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 If you encounter any problems or have suggestions for improving the program, please:
 
 - Create an issue in the GitHub repository
-- Send an email to: your.email@example.com
 
 ## Acknowledgments
 
